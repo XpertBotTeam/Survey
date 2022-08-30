@@ -1,6 +1,5 @@
 # Survey Full Stack Application
 
-Built with these technologies for [YouTube Video](https://youtu.be/WLQDpY7lOLg)
 <table>
     <tr>
         <td>
