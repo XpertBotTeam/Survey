@@ -6,6 +6,12 @@
   </div>
 </template>
 
-<script setup>
+<script>
 import { LockClosedIcon } from '@heroicons/vue/solid'
+
+export default {
+  components: {
+    LockClosedIcon,
+  },
+}
 </script>
